@@ -1,6 +1,6 @@
 ## DELL Inspiron 13z 5323 ivy bridge Big Sur Hackintosh
 ### You can install, Big Sur, Catalina and/or Mojave
-#### BootLoaders.zip contain both Clover and OpenCore boot loaders, use the one you prefer.
+#### BootLoaders.zip contain both Clover 5128 and OpenCore 0.6.5 boot loaders, use the one you prefer.
 <br>
 
 ### BootLoaders.zip [![download BootLoaders.zip](https://img.shields.io/github/downloads/serdeliuk/13z-5323-hackint0sh/total)](https://github.com/serdeliuk/13z-5323-hackint0sh/releases/download/1/BootLoaders.1.0.0.zip)
