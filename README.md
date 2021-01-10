@@ -3,7 +3,7 @@
 #### BootLoaders.zip contain both Clover and OpenCore boot loaders, use the one you prefer.
 <br>
 
-### BootLoaders.zip [![download BootLoaders.zip](https://img.shields.io/github/downloads/serdeliuk/13z-5323-hackint0sh/total)](https://github.com/serdeliuk/13z-5323-hackint0sh/releases/download/1/BootLoaders.zip)
+### BootLoaders.zip [![download BootLoaders.zip](https://img.shields.io/github/downloads/serdeliuk/13z-5323-hackint0sh/total)](https://github.com/serdeliuk/13z-5323-hackint0sh/releases/download/1/BootLoaders.1.0.0.zip)
 #### This source code is licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html#preamble)
 #### Please read LICENSE.txt for more details
 
